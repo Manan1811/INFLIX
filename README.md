@@ -1,1 +1,1 @@
-Link to the web application :-[Link](https://inflix-recommender.herokuapp.com/)
+Link to the web application :-[Link](https://inflix.herokuapp.com/)
